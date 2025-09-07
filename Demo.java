@@ -2,6 +2,7 @@
  {
 	 public static void main(String args[])
 	 {
-		 System.out.println("WELCOME TO GIT HUB RESPOSITORY");
+		 int a=10,b=20;
+		 System.out.println(a+b);
 	 }
  }
